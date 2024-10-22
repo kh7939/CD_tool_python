@@ -1,5 +1,6 @@
 # Introduction
 A tool that I have been working on. It will generate some useful output with DNA sequence input.
+![Alt text](![cd_tool_ex](https://github.com/user-attachments/assets/71181752-0bf7-4d57-855b-4b3df040129f))
 
 # How to execute (Example on Linux terminal)
 ```
